@@ -22,7 +22,7 @@ const cars = [
     id: 2,
     brand: "Renault",
     model: "Clio Alpine TCe 90",
-    image: "/images/19213.jpg",
+    image: "/images/19212.png",
 
     gallery: Array.from({ length: 17 }, (_, i) => `/images/${19212 + i}.jpg`),
 
